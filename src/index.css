@@ -23,3 +23,13 @@
    font-family:Arial, Helvetica, sans-serif ;
    margin: 0;
 }
+.student{
+  font-family:sans-serif;
+  color: rgba(188, 10, 140, 0.959);
+  border: 2px solid rgba(0, 0, 0, 0.599);
+  margin: 10px;
+}
+.student p{
+  margin: 10px;
+  padding: 1px;
+}
